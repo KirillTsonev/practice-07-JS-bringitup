@@ -6,6 +6,12 @@ import Form from './modules/forms';
 import ShowInfo from './modules/showInfo';
 import Download from './modules/download';
 
+// const plus = document.querySelector(".plus")
+
+// plus.addEventListener("click", {
+    
+// })
+
 window.addEventListener('DOMContentLoaded', () => {
     const slider = new MainSlider({
         btns: ".next",
